@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToeTest/TicTacToeTest.csproj": {}
+    "/Users/dksebmcc/Documents/Testing-Dev-Tools/Testing-GitHub-Advanced-Security/TicTacToeTest/TicTacToeTest.csproj": {}
   },
   "projects": {
-    "/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/TicTacToe.csproj": {
+    "/Users/dksebmcc/Documents/Testing-Dev-Tools/Testing-GitHub-Advanced-Security/TicTacToe/TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/TicTacToe.csproj",
+        "projectUniqueName": "/Users/dksebmcc/Documents/Testing-Dev-Tools/Testing-GitHub-Advanced-Security/TicTacToe/TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/TicTacToe.csproj",
+        "projectPath": "/Users/dksebmcc/Documents/Testing-Dev-Tools/Testing-GitHub-Advanced-Security/TicTacToe/TicTacToe.csproj",
         "packagesPath": "/Users/dksebmcc/.nuget/packages/",
-        "outputPath": "/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/obj/",
+        "outputPath": "/Users/dksebmcc/Documents/Testing-Dev-Tools/Testing-GitHub-Advanced-Security/TicTacToe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dksebmcc/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToeTest/TicTacToeTest.csproj": {
+    "/Users/dksebmcc/Documents/Testing-Dev-Tools/Testing-GitHub-Advanced-Security/TicTacToeTest/TicTacToeTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToeTest/TicTacToeTest.csproj",
+        "projectUniqueName": "/Users/dksebmcc/Documents/Testing-Dev-Tools/Testing-GitHub-Advanced-Security/TicTacToeTest/TicTacToeTest.csproj",
         "projectName": "TicTacToeTest",
-        "projectPath": "/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToeTest/TicTacToeTest.csproj",
+        "projectPath": "/Users/dksebmcc/Documents/Testing-Dev-Tools/Testing-GitHub-Advanced-Security/TicTacToeTest/TicTacToeTest.csproj",
         "packagesPath": "/Users/dksebmcc/.nuget/packages/",
-        "outputPath": "/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToeTest/obj/",
+        "outputPath": "/Users/dksebmcc/Documents/Testing-Dev-Tools/Testing-GitHub-Advanced-Security/TicTacToeTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dksebmcc/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/TicTacToe.csproj": {
-                "projectPath": "/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/TicTacToe.csproj"
+              "/Users/dksebmcc/Documents/Testing-Dev-Tools/Testing-GitHub-Advanced-Security/TicTacToe/TicTacToe.csproj": {
+                "projectPath": "/Users/dksebmcc/Documents/Testing-Dev-Tools/Testing-GitHub-Advanced-Security/TicTacToe/TicTacToe.csproj"
               }
             }
           }
@@ -109,7 +109,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.12.0, )"
+              "version": "[16.11.0, )"
             },
             "NUnit": {
               "target": "Package",
