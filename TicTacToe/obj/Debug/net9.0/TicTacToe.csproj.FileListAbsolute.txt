@@ -1,0 +1,15 @@
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/bin/Debug/net9.0/TicTacToe
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/bin/Debug/net9.0/TicTacToe.deps.json
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/bin/Debug/net9.0/TicTacToe.runtimeconfig.json
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/bin/Debug/net9.0/TicTacToe.dll
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/bin/Debug/net9.0/TicTacToe.pdb
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/obj/Debug/net9.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/obj/Debug/net9.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/obj/Debug/net9.0/TicTacToe.AssemblyInfo.cs
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/obj/Debug/net9.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/obj/Debug/net9.0/TicTacToe.sourcelink.json
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/obj/Debug/net9.0/TicTacToe.dll
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/obj/Debug/net9.0/refint/TicTacToe.dll
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/obj/Debug/net9.0/TicTacToe.pdb
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/obj/Debug/net9.0/TicTacToe.genruntimeconfig.cache
+/Users/dksebmcc/Documents/assignment-3-sabetsain/TicTacToe/obj/Debug/net9.0/ref/TicTacToe.dll
